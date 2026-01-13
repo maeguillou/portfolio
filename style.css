@@ -159,10 +159,10 @@ a {
 }
 
 .profile__img {
-  width: 44px;
-  height: 44px;
+  width: 132px;
+  height: 132px;
   object-fit: cover;
-  border-radius: 10px;
+  border-radius: 18px;
   border: 1px solid var(--line);
   display: block;
 }
